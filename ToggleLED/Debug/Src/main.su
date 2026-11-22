@@ -1,0 +1,3 @@
+C:/Users/sidsi/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.0/Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/main.c:16:7:TIM1_UP_TIM10_IRQHandler	4	static
+../Src/main.c:25:6:main	40	static

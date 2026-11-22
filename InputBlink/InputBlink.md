@@ -1,4 +1,4 @@
-# STM32 GPIO LED WITH BUTTON INPUT
+# STM32 GPIO LED With Button Input
 
 # Project Setup 
 First an STM32 project was created. Missing include files were added from the following filepaths:
