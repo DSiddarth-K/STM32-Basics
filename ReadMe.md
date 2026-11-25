@@ -15,3 +15,4 @@ Each project includes code and technical documentation outlining the implementat
 | GPIO LED Blink | Basic GPIO configuration and direct register manipulation to control the onboard LED. | [LED Blink](./Blink/Blink.md) |
 | Button-Controlled LED | GPIO input handling, button state detection, and LED control with software debouncing. | [Button-controlled LED](./InputBlink/InputBlink.md) |
 | LED-Toggle | LED control with software debouncing, clocks and counters | [Toggled LED](./ToggleLED/ToggleLED.md) |
+| Hardware Interrupt | Hardware-triggered GPIO interrupt using EXTI and NVIC to toggle an LED on a push-button press. | [Hardware Interrupt](./InterruptDrivenButton/InterruptDrivenButton.md) |
