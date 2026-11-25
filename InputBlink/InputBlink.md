@@ -6,8 +6,6 @@ First an STM32 project was created. Missing include files were added from the fo
 
 Including these file path in the project lets us use the hardware specific header file that contains all the register adresses.
 
-
-
 # Code
 
 A similar process from the Blink project is used to setup the LED. The user manual identifies PC13 as avilable as a push button. The clock for GPIO C port is turned on, the mode is set to input with a BITMASK. No pull-up/pull-down resistor is configured on the register.
